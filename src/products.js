@@ -13,66 +13,66 @@ export const PRODUCTS = [
   {
     id: 1,
     productName: "IPhone",
-    price: 999,
+    price: 999.0,
     productImage: product1,
   },
 
   {
     id: 2,
     productName: "MacBook Pro",
-    price: 999,
+    price: 999.0,
     productImage: product2,
   },
   {
     id: 3,
     productName: "Earpods",
-    price: 999,
+    price: 999.0,
     productImage: product3,
   },
 
   {
     id: 4,
     productName: "Keyboard and Mouse",
-    price: 999,
+    price: 999.0,
     productImage: product4,
   },
   {
     id: 5,
     productName: "Headphone",
-    price: 999,
+    price: 999.0,
     productImage: product5,
   },
 
   {
     id: 6,
     productName: "speakers",
-    price: 999,
+    price: 999.0,
     productImage: product6,
   },
   {
     id: 7,
     productName: "Monitor",
-    price: 999,
+    price: 999.0,
     productImage: product7,
   },
 
   {
     id: 8,
     productName: "Flashdrive",
-    price: 999,
+    price: 999.0,
     productImage: product8,
   },
   {
     id: 9,
     productName: "Hard disk",
-    price: 999,
+    price: 999.0,
     productImage: product9,
   },
 
   {
     id: 10,
     productName: "Smart Watch",
-    price: 999,
+    price: 999.0,
     productImage: product10,
   },
 ];
