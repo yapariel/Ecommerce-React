@@ -7,13 +7,13 @@
   align-items: center;
 }
 
-.links {
+.Menu {
   margin-right: 50px;
   display: flex;
   align-items: center;
 }
 
-.links a {
+.Menu a {
   text-decoration: none;
   color: white;
   margin-left: 20px;

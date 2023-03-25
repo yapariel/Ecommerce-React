@@ -10,7 +10,7 @@ export const Shop = () => {
         <h1> ArielTech Shop</h1>
       </div>
       <div className="products">
-        {" "}
+        {""}
         {PRODUCTS.map((product) => (
           <Product data={product} />
         ))}
